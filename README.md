@@ -15,13 +15,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lovepoity/lovepoity/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/lovepoity/lovepoity/output/github-snake.svg" />
 </picture>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.youtube.com/@NarutoMobileTencent" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovepoity&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
