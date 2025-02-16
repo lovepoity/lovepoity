@@ -1,6 +1,8 @@
 <img src="/luffy.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Sunao, Japanese translator and full-stack developer based in Somewhere 👋🏼
+# Hello World!,
+
+# I'm Sunao, Japanese translator and full-stack developer based in Somewhere 👋🏼
 
 🛜 Currently working on my own [webpage](https://www.sunaos.com)<br>👨🏼‍🎓 Studying Business | Web Developer in Japan & Vietnam<br>👨🏼‍💻 Working as a Web Developer/BrSE since 2025 <br>🎬 Just started out with my Youtube channel <i>[Naruto Mobile Tencent](https://www.youtube.com/@NarutoMobileTencent)</i>
 
@@ -15,9 +17,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lovepoity/lovepoity/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/lovepoity/lovepoity/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovepoity&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
