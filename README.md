@@ -1,4 +1,4 @@
-<img src="/luffy.jpg" alt="GitHub Banner" width="100%" />
+<img src="/Black.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World! <br> I'm Sunao, a Japanese translator and and work in the IT field based in Somewhere...
 
