@@ -2,7 +2,7 @@
 
 # Hello World! <br> I'm Sunao, a Japanese translator and and work in the IT field based in Somewhere...
 
-🛜 Currently working on my own [webpage](https://www.sunaos.com)<br>👨🏼‍🎓 Studying Business | Web Developer in Japan & Vietnam<br>🎬 Just started my Youtube channel <i>[Naruto Mobile Tencent](https://www.youtube.com/@NarutoMobileTencent)</i>
+🛜 Currently working on my own [webpage](https://www.sunao.vn)<br>👨🏼‍🎓 Studying Business | Web Developer in Japan & Vietnam<br>🎬 Just started my Youtube channel <i>[Naruto Mobile Tencent](https://www.youtube.com/@NarutoMobileTencent)</i>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@narutomobiletencent) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/lovepoity) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lovepoitys)
 
